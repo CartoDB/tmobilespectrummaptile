@@ -1,0 +1,2 @@
+git remote add dokku dokku@cartodb.io:tmobilespectrummaptile
+git push dokku master
