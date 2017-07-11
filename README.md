@@ -27,4 +27,7 @@ Served from this redirect Flask app:
 
 [https://tmobilespectrummaptile.cartodb.io/5/4/10.png](https://tmobilespectrummaptile.cartodb.io/5/4/10.png)
 
+## In CARTO Builder
+
+[![t-mobile coverage map](img/map.png)](https://team.carto.com/u/sheehan-carto/builder/9aab8c4a-8df3-450b-b822-686a8fadab01/embed)
 
