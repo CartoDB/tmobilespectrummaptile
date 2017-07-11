@@ -15,6 +15,7 @@ So a normal `maps.com/0/0/0.png` for Spectrum is  `http://maps.t-mobile.com/TMo_
 Served from this redirect Flask app:
 
 `http://maps.t-mobile.com/TMo_TechLTE_Map/5/4:10/tile.png`
-![https://tmobilespectrummaptile.cartodb.io/5/4/10.png](https://tmobilespectrummaptile.cartodb.io/5/4/10.png)
+![http://tmobilespectrummaptile.cartodb.io/5/4/10.png](http://tmobilespectrummaptile.cartodb.io/5/4/10.png)
+
 
 
