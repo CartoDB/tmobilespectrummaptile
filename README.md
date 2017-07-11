@@ -2,6 +2,8 @@
 
 This is a flask app that redirect T-Mobiile Map services which is essentially off by 1 in the XYZ system. 
 
+You should be able to use `http://tmobilespectrummaptile.cartodb.io/{z}/{x}/{y}.png` as a tile service for T-Mobile coverage data. 
+
 So a normal `maps.com/0/0/0.png` for Spectrum is  `http://maps.t-mobile.com/TMo_TechLTE_Map/1/1:1/tile.png`
 
 I found this from this code: [http://maps.t-mobile.com/pcc/app/pccService.17159.js](http://maps.t-mobile.com/pcc/app/pccService.17159.js) at `function createImageLayer`, noticed they are appending 1 to each tile request for Google Maps. 
